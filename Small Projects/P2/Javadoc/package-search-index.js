@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"Logica"},{"l":"TDAArbol"},{"l":"TDACola"},{"l":"TDADiccionario"},{"l":"TDALista"},{"l":"TDAMapeo"},{"l":"TDAPila"}]
